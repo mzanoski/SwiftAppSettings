@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftAppSettings_Example' do
+  pod 'SwiftAppSettings', :path => '../'
+
+  target 'SwiftAppSettings_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "SwiftAppSettings",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftAppSettings.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Marko Zanoski/SwiftAppSettings",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Marko Zanoski": "zanoski@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Marko Zanoski/SwiftAppSettings.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "SwiftAppSettings/Classes/**/*"
+}

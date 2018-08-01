@@ -1,0 +1,16 @@
+PODS:
+  - SwiftAppSettings (0.1.0)
+
+DEPENDENCIES:
+  - SwiftAppSettings (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftAppSettings:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftAppSettings: 682d3780f1dfb52f6661eb21471c810585caecf7
+
+PODFILE CHECKSUM: bc382ae4f12d9fce674bbfaad5382111a8ffb666
+
+COCOAPODS: 1.5.3
